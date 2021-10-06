@@ -12,6 +12,7 @@ type student struct {
 	Grade int
 }
 
+// Meengisi Struct mahasiswa
 var data = []student{
 	student{"E001", "ethan", 21},
 	student{"W001", "wick", 22},
